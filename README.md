@@ -7,7 +7,7 @@ The Purpose is to analyze and evaluate the math and reading scores for a particu
 
 Replacing the missing information with NaN will give a more accurate reporting of how well the 9th graders are performing in Math and Reading
 
-
+![](Capture.PNG)
 
 
 # Deliverable 2
