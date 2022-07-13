@@ -13,25 +13,31 @@ Replacing the missing information with NaN will give a more accurate reporting o
 # Deliverable 2
 
 ## District performance 
-
+![](District_Performance.png)
 
 ## School Performance 
-
+![](Capture.PNG)
 
 ## The top 5 performing schools, based on the overall passing rate.
+![](Top5_ performing_ schools.png)
 
 ## The bottom 5 performing schools, based on the overall passing rate
-
+![](Bottom_5_performing_schools.png)
 
 ## The average math score for each grade level from each school.
+![](Average_math_score.png)
 
 ## The average reading score for each grade level from each school.
+![](Capture.PNG)
 
 ## The scores by school spending per student.
+![](School_by_spending.png)
 
 ## The scores by school size.
+![](Score_by_school_size.png)
 
 ## The scores by school type.
+![](Score_by_school_type.png)
 
 
 # Deliverable 3
