@@ -16,10 +16,10 @@ Replacing the missing information with NaN will give a more accurate reporting o
 ![](District_Performance.png)
 
 ## School Performance 
-![](School_ Summary_ Performance (1).png)
+![](School_Summary_Performance (1).png)
 
 ## The top 5 performing schools, based on the overall passing rate.
-![](Top5_ performing_ schools.png)
+![](Top5_performing_schools.png)
 
 ## The bottom 5 performing schools, based on the overall passing rate
 ![](Bottom_5_performing_schools.png)
