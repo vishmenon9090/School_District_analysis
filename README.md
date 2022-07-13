@@ -28,7 +28,7 @@ Replacing the missing information with NaN will give a more accurate reporting o
 ![](Average_math_score.png)
 
 ## The average reading score for each grade level from each school.
-![](Capture.PNG)
+![](Average_reading_score.png)
 
 ## The scores by school spending per student.
 ![](School_by_spending.png)
